@@ -1,3 +1,7 @@
 images/
-annoation-app/
+annotation-app/
 .env
+.DS_Store
+.vscode/
+.gitignore
+.gitignore
